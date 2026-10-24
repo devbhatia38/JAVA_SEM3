@@ -1,3 +1,4 @@
+package practical_2;
 public class Thermostat {
     private String location;
     private int temperature;

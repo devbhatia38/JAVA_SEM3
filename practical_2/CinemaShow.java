@@ -1,3 +1,4 @@
+package practical_2;
 public class CinemaShow {
     private String title;
     private int seatsAvailable;
