@@ -4,7 +4,7 @@ enum Coin {
     ONE, TWO, FIVE, TEN
 }
 
-public class VendingMachine {
+class VendingMachine {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

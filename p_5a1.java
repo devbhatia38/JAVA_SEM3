@@ -33,7 +33,7 @@ class triangle extends shape{
         System.out.println("Area of triangle is : "+(base*height)/2);
     }
 }
-public class p_5a {
+class p_5a {
     public static void main(String[] args) {
         shape arr[]=
                 {
